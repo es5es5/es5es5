@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=es5es5&&show_icons=true&theme=dracula)
+
 <!--
 **es5es5/es5es5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
